@@ -1,2 +1,2 @@
-# The laboratory of Trudy G. Oliver @ Duke University
-Bear with us as we get things rolling.
+# Special repo for managing public-facing home page
+Most of the action is in the [profile](profile) directory
